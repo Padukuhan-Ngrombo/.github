@@ -6,10 +6,12 @@ Padukuhan Ngrombo adalah salah satu padukuhan di Kelurahan Tileng, Kecamatan Gir
 
 ### Google Maps
 _Clickable map image redirect to real location on google map_
-[![Click on this Map](https://github.com/Padukuhan-Ngrombo/.github/assets/172066029/0a9c8c39-28f6-46da-993d-73eac772380f)](https://maps.app.goo.gl/mnweqZAMfgjFwLJw9)
+<a href="https://maps.app.goo.gl/mnweqZAMfgjFwLJw9">
+  <img src="https://github.com/Padukuhan-Ngrombo/.github/assets/172066029/0a9c8c39-28f6-46da-993d-73eac772380f" width="600"/>
+</a>
+
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
